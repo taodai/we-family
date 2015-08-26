@@ -1,0 +1,191 @@
+2015-07-14 18:16:58 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "image/garden.jpg".' in F:\wamp\www\hqlapp\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 F:\wamp\www\hqlapp\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('image/garden.jp...', Array)
+#1 F:\wamp\www\hqlapp\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\wamp\www\hqlapp\frontend\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in F:\wamp\www\hqlapp\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 F:\wamp\www\hqlapp\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\wamp\www\hqlapp\frontend\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2015-07-14 18:16:58 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '__utma' => '49706047.1795340251.1434357887.1434357887.1434597688.2'
+    '__utmz' => '49706047.1434357887.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'
+    'PHPSESSID' => '2hgmp7fdfptccsb8j4l57b2sj3'
+    '_csrf' => 'fe92e2f612180f9f640d1a47723613e7de5d7c813ded0894600f65bff5365955a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"4UR5gP-CB4VxvkqiihofoM8DuXwqFSBu\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'weixin.hql.com'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36'
+    'HTTP_REFERER' => 'http://weixin.hql.com/index.php/site/choose'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'HTTP_COOKIE' => '__utma=49706047.1795340251.1434357887.1434357887.1434597688.2; __utmz=49706047.1434357887.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=2hgmp7fdfptccsb8j4l57b2sj3; _csrf=fe92e2f612180f9f640d1a47723613e7de5d7c813ded0894600f65bff5365955a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%224UR5gP-CB4VxvkqiihofoM8DuXwqFSBu%22%3B%7D'
+    'PATH' => 'F:\\AppCan\\AppCanStudioPersonalV3.2\\HDK\\emulator\\mas\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;D:\\Program Files\\TortoiseSVN\\bin;C:\\Program Files\\VanDyke Software\\Clients\\;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at weixin.hql.com Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'weixin.hql.com'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'F:/wamp/www/hqlapp/frontend/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/wamp/www/hqlapp/frontend/web'
+    'SERVER_ADMIN' => 'webmaster@dummy-host2.example.com'
+    'SCRIPT_FILENAME' => 'F:/wamp/www/hqlapp/frontend/web/index.php'
+    'REMOTE_PORT' => '50690'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php/image/garden.jpg'
+    'SCRIPT_NAME' => '/index.php'
+    'PATH_INFO' => '/image/garden.jpg'
+    'PATH_TRANSLATED' => 'F:\\wamp\\www\\hqlapp\\frontend\\web\\image\\garden.jpg'
+    'PHP_SELF' => '/index.php/image/garden.jpg'
+    'REQUEST_TIME_FLOAT' => 1436869018.849
+    'REQUEST_TIME' => 1436869018
+]
+2015-07-14 18:17:11 [127.0.0.1][-][-][error][yii\web\HttpException:404] exception 'yii\base\InvalidRouteException' with message 'Unable to resolve the request "image/garden.jpg".' in F:\wamp\www\hqlapp\vendor\yiisoft\yii2\base\Module.php:461
+Stack trace:
+#0 F:\wamp\www\hqlapp\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction('image/garden.jp...', Array)
+#1 F:\wamp\www\hqlapp\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 F:\wamp\www\hqlapp\frontend\web\index.php(19): yii\base\Application->run()
+#3 {main}
+
+Next exception 'yii\web\NotFoundHttpException' with message 'Page not found.' in F:\wamp\www\hqlapp\vendor\yiisoft\yii2\web\Application.php:95
+Stack trace:
+#0 F:\wamp\www\hqlapp\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 F:\wamp\www\hqlapp\frontend\web\index.php(19): yii\base\Application->run()
+#2 {main}
+2015-07-14 18:17:11 [127.0.0.1][-][-][info][application] $_COOKIE = [
+    '__utma' => '49706047.1795340251.1434357887.1434357887.1434597688.2'
+    '__utmz' => '49706047.1434357887.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'
+    'PHPSESSID' => '2hgmp7fdfptccsb8j4l57b2sj3'
+    '_csrf' => 'fe92e2f612180f9f640d1a47723613e7de5d7c813ded0894600f65bff5365955a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"4UR5gP-CB4VxvkqiihofoM8DuXwqFSBu\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    'type' => '1'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'weixin.hql.com'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_ACCEPT' => 'image/webp,*/*;q=0.8'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36'
+    'HTTP_REFERER' => 'http://weixin.hql.com/index.php/site/choose'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, sdch'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'HTTP_COOKIE' => '__utma=49706047.1795340251.1434357887.1434357887.1434597688.2; __utmz=49706047.1434357887.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); PHPSESSID=2hgmp7fdfptccsb8j4l57b2sj3; _csrf=fe92e2f612180f9f640d1a47723613e7de5d7c813ded0894600f65bff5365955a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%224UR5gP-CB4VxvkqiihofoM8DuXwqFSBu%22%3B%7D'
+    'PATH' => 'F:\\AppCan\\AppCanStudioPersonalV3.2\\HDK\\emulator\\mas\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;D:\\Program Files\\TortoiseSVN\\bin;C:\\Program Files\\VanDyke Software\\Clients\\;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at weixin.hql.com Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'weixin.hql.com'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'F:/wamp/www/hqlapp/frontend/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/wamp/www/hqlapp/frontend/web'
+    'SERVER_ADMIN' => 'webmaster@dummy-host2.example.com'
+    'SCRIPT_FILENAME' => 'F:/wamp/www/hqlapp/frontend/web/index.php'
+    'REMOTE_PORT' => '50692'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/index.php/image/garden.jpg'
+    'SCRIPT_NAME' => '/index.php'
+    'PATH_INFO' => '/image/garden.jpg'
+    'PATH_TRANSLATED' => 'F:\\wamp\\www\\hqlapp\\frontend\\web\\image\\garden.jpg'
+    'PHP_SELF' => '/index.php/image/garden.jpg'
+    'REQUEST_TIME_FLOAT' => 1436869031.253
+    'REQUEST_TIME' => 1436869031
+]
+2015-07-23 12:25:57 [127.0.0.1][-][-][error][yii\base\ErrorException:8] exception 'yii\base\ErrorException' with message 'Undefined index: code' in F:\wamp\www\hqlapp\frontend\modules\weixin\controllers\HandleController.php:313
+Stack trace:
+#0 F:\wamp\www\hqlapp\vendor\yiisoft\yii2\base\InlineAction.php(55): ::call_user_func_array:{F:\wamp\www\hqlapp\vendor\yiisoft\yii2\base\InlineAction.php:55}()
+#1 F:\wamp\www\hqlapp\vendor\yiisoft\yii2\base\Controller.php(151): yii\base\InlineAction->runWithParams()
+#2 F:\wamp\www\hqlapp\vendor\yiisoft\yii2\base\Module.php(455): yii\base\Controller->runAction()
+#3 F:\wamp\www\hqlapp\vendor\yiisoft\yii2\web\Application.php(83): yii\base\Module->runAction()
+#4 F:\wamp\www\hqlapp\vendor\yiisoft\yii2\base\Application.php(375): yii\web\Application->handleRequest()
+#5 F:\wamp\www\hqlapp\frontend\web\index.php(19): yii\base\Application->run()
+#6 {main}
+2015-07-23 12:25:57 [127.0.0.1][-][-][info][application] $_POST = [
+    'uname' => '18645124145'
+]
+
+$_COOKIE = [
+    '__utma' => '49706047.1795340251.1434357887.1434357887.1434597688.2'
+    '__utmz' => '49706047.1434357887.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'
+]
+
+$_SERVER = [
+    'REDIRECT_STATUS' => '200'
+    'HTTP_HOST' => 'weixin.hql.com'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '17'
+    'HTTP_CSP' => 'active'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_ORIGIN' => 'chrome-extension://bbihjppelebmojkknhbebidjkmbaiblc'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_ACCEPT' => '*/*'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'zh-CN,zh;q=0.8'
+    'HTTP_COOKIE' => '__utma=49706047.1795340251.1434357887.1434357887.1434597688.2; __utmz=49706047.1434357887.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none)'
+    'PATH' => 'F:\\AppCan\\AppCanStudioPersonalV3.2\\HDK\\emulator\\mas\\;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;D:\\Program Files\\TortoiseSVN\\bin;C:\\Program Files\\VanDyke Software\\Clients\\;'
+    'SystemRoot' => 'C:\\Windows'
+    'COMSPEC' => 'C:\\Windows\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\Windows'
+    'SERVER_SIGNATURE' => '<address>Apache/2.4.9 (Win64) PHP/5.5.12 Server at weixin.hql.com Port 80</address>
+'
+    'SERVER_SOFTWARE' => 'Apache/2.4.9 (Win64) PHP/5.5.12'
+    'SERVER_NAME' => 'weixin.hql.com'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'F:/wamp/www/hqlapp/frontend/web'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'F:/wamp/www/hqlapp/frontend/web'
+    'SERVER_ADMIN' => 'webmaster@dummy-host2.example.com'
+    'SCRIPT_FILENAME' => 'F:/wamp/www/hqlapp/frontend/web/index.php'
+    'REMOTE_PORT' => '56279'
+    'REDIRECT_URL' => '/weixin/handle/class'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'REQUEST_METHOD' => 'POST'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/weixin/handle/class'
+    'SCRIPT_NAME' => '/index.php'
+    'PATH_INFO' => '/weixin/handle/class'
+    'PATH_TRANSLATED' => 'redirect:\\index.php\\weixin\\handle\\class\\handle\\class'
+    'PHP_SELF' => '/index.php/weixin/handle/class'
+    'REQUEST_TIME_FLOAT' => 1437625557.43
+    'REQUEST_TIME' => 1437625557
+]

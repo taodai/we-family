@@ -1,0 +1,11 @@
+RewriteEngine On
+RewriteBase / 
+  
+RewriteCond %{REQUEST_FILENAME} !-f  
+RewriteCond %{REQUEST_FILENAME} !-d  
+RewriteRule ^(.*)$ index.php/$1 
+#RewriteRule ^(.*).php$ index.php?r=site/$1
+#RewriteRule ^test.do$ index.php?r=test/user/test [L]
+#RewriteRule ^(.*).do$ index.php?r=site/$1  [L]
+#RewriteCond %{HTTP_HOST} ^test.yii.com [NC]
+#RewriteRule ^(.*) http://www.baidu.com/ [R]
