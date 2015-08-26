@@ -1,0 +1,57 @@
+
+.textbox{
+    height:25px;
+    padding:0 2px;
+    width:320px;
+}
+.pro-attr .textbox{
+    width:auto;
+}
+textarea.textbox{
+    white-space:normal;
+    font-size: 12px;
+    padding:2px;
+}
+.dl-form dt{
+    line-height: 23px;
+}
+.dlg_table th{
+    text-align: right;
+}
+.dlg_table td,.dlg_table th{
+    padding:5px;
+}
+.form-table{}
+table{border-collapse:collapse;border-spacing:0;}
+.m-table th{text-align: right;}
+.m-table{table-layout:fixed;width:100%;line-height:1.5;}
+.m-table th,.m-table td{padding:10px;border:1px solid #ddd;}
+.m-table th{font-weight:bold;}
+.m-table tbody tr:hover{background:#f0f0f0;}
+.m-table .cola{width:100px;}
+.m-table .colb{width:200px;}
+.uploader-list{
+    position:relative;
+}
+.delete{
+    position:absolute;
+    top:0;
+    right:6px;
+    color:#333;
+    font-size:16px;
+    padding:2px;
+    z-index:9999;
+    cursor: pointer;
+}
+.form-label{
+    cursor:pointer;
+}
+.m-hd{
+    border-bottom: 1px solid #ddd;
+    height: 35px;
+    line-height: 35px;
+    padding: 1px 0 0;
+}
+.state-complete{
+    cursor: pointer;
+}

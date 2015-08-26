@@ -1,0 +1,269 @@
+.icon-blank{
+	background:url('icons/blank.gif') no-repeat center center;
+}
+.icon-add{
+	background:url('icons/edit_add.png') no-repeat center center;
+}
+.icon-edit{
+	background:url('icons/pencil.png') no-repeat center center;
+}
+.icon-clear{
+	background:url('icons/clear.png') no-repeat center center;
+}
+.icon-remove{
+	background:url('icons/edit_remove.png') no-repeat center center;
+}
+.icon-save{
+	background:url('icons/filesave.png') no-repeat center center;
+}
+.icon-filesave{
+	background:url('icons/filesave.png') no-repeat center center;
+}
+.icon-cut{
+	background:url('icons/cut.png') no-repeat center center;
+}
+.icon-ok{
+	background:url('icons/ok.png') no-repeat center center;
+}
+.icon-no{
+	background:url('icons/no.png') no-repeat center center;
+}
+.icon-cancel{
+	background:url('icons/cancel.png') no-repeat center center;
+}
+.icon-reload{
+	background:url('icons/reload.png') no-repeat center center;
+}
+.icon-search{
+	background:url('icons/search.png') no-repeat center center;
+}
+.icon-print{
+	background:url('icons/print.png') no-repeat center center;
+}
+.icon-help{
+	background:url('icons/help.png') no-repeat center center;
+}
+.icon-undo{
+	background:url('icons/undo.png') no-repeat center center;
+}
+.icon-redo{
+	background:url('icons/redo.png') no-repeat center center;
+}
+.icon-back{
+	background:url('icons/back.png') no-repeat center center;
+}
+.icon-sum{
+	background:url('icons/sum.png') no-repeat center center;
+}
+.icon-tip{
+	background:url('icons/tip.png') no-repeat center center;
+}
+.icon-filter{
+	background:url('icons/filter.png') no-repeat center center;
+}
+.icon-man{
+	background:url('icons/man.png') no-repeat center center;
+}
+.icon-lock{
+	background:url('icons/lock.png') no-repeat center center;
+}
+
+
+.icon-mini-add{
+	background:url('icons/mini_add.png') no-repeat center center;
+}
+.icon-mini-edit{
+	background:url('icons/mini_edit.png') no-repeat center center;
+}
+.icon-mini-refresh{
+	background:url('icons/mini_refresh.png') no-repeat center center;
+}
+
+.icon-large-picture{
+	background:url('icons/large_picture.png') no-repeat center center;
+}
+.icon-large-clipart{
+	background:url('icons/large_clipart.png') no-repeat center center;
+}
+.icon-large-shapes{
+	background:url('icons/large_shapes.png') no-repeat center center;
+}
+.icon-large-smartart{
+	background:url('icons/large_smartart.png') no-repeat center center;
+}
+.icon-large-chart{
+	background:url('icons/large_chart.png') no-repeat center center;
+}
+
+.icon-system{
+	background:url('icons/system.png') no-repeat;
+}
+.icon-department{
+	background:url('icons/department.png') no-repeat;
+}
+.icon-role{
+	background:url('icons/role.png') no-repeat;
+}
+.icon-sysuser{
+	background:url('icons/sysuser.png') no-repeat;
+}
+.icon-syslog{
+	background:url('icons/syslog.png') no-repeat;
+}
+.icon-customer{
+	background:url('icons/customer.png') no-repeat;
+}
+.icon-customer-level{
+	background:url('icons/customer_level.png') no-repeat;
+}
+.icon-merchant{
+	background:url('icons/merchant.png') no-repeat;
+}
+.icon-merchant-mes{
+	background:url('icons/merchant_mes.png') no-repeat;
+}
+.icon-product{
+	background:url('icons/product.png') no-repeat;
+}
+.icon-product-category{
+	background:url('icons/product_category.png') no-repeat;
+}
+.icon-product-sqpropertie{
+	background:url('icons/product_sqpropertie.png') no-repeat;
+}
+.icon-product-propertie{
+	background:url('icons/product_propertie.png') no-repeat;
+}
+.icon-product-zhixun{
+	background:url('icons/product_zhixun.png') no-repeat;
+}
+.icon-product-pingjia{
+	background:url('icons/product_pingjia.png') no-repeat;
+}
+.icon-product_brand{
+	background:url('icons/product_brand.png') no-repeat;
+}
+.icon-web{
+	background:url('icons/web.png') no-repeat;
+}
+.icon-home{
+	background:url('icons/home.png') no-repeat;
+}
+.icon-report{
+	background:url('icons/report.png') no-repeat;
+}
+.icon-web-area{
+	background:url('icons/area.png') no-repeat;
+}
+.icon-area{
+	background:url('icons/area.png') no-repeat;
+}
+.icon-shiptype{
+	background:url('icons/shiptype.png') no-repeat;
+}
+.icon-web-shipprice{
+	background:url('icons/shipprice.png') no-repeat;
+}
+.icon-web-newscategory{
+	background:url('icons/newscategory.png') no-repeat;
+}
+.icon-web-news{
+	background:url('icons/news.png') no-repeat;
+}
+.icon-web-pageinfo{
+	background:url('icons/pageinfo.png') no-repeat;
+}
+.icon-web-ad{
+	background:url('icons/ad.png') no-repeat;
+}
+.icon-web-youhui{
+	background:url('icons/youhui.png') no-repeat;
+}
+.icon-report-sale{
+	background:url('icons/report_sale.png') no-repeat;
+}
+.icon-product-box{
+	background:url('icons/product_box.png') no-repeat;
+}
+.icon-order{
+	background:url('icons/order.png') no-repeat;
+}
+.icon-work{
+	background:url('icons/work.png') no-repeat;
+}
+.icon-exit{
+	background:url('icons/exit.png') no-repeat;
+}
+.icon-key{
+	background:url('icons/key.png') no-repeat;
+}
+.icon-rma{
+	background:url('icons/rma.png') no-repeat;
+}
+.icon-money{
+	background:url('icons/money.png') no-repeat;
+}
+.icon-star{
+	background:url('icons/star.png') no-repeat;
+}
+.icon-group{
+	background:url('icons/group.png') no-repeat;
+}
+.icon-desktop-image{
+	background:url('icons/desktop-image.png') no-repeat;
+}
+.icon-image{
+	background:url('icons/desktop-image.png') no-repeat;
+}
+.icon-copy{
+	background:url('icons/page_copy.png') no-repeat;
+}
+.icon-page_copy{
+	background:url('icons/page_copy.png') no-repeat;
+}
+.icon-paste{
+	background:url('icons/page_paste.png') no-repeat;
+}
+.icon-chart-up{
+	background:url('icons/chart-up.png') no-repeat;
+}
+.icon-youhui{
+	background:url('icons/youhui.png') no-repeat;
+}
+.icon-ad{
+	background:url('icons/ad.png') no-repeat center center;
+}
+.icon-store-share{
+	background:url('icons/store-share.png') no-repeat center center;
+}
+.icon-product_box{
+	background:url('icons/product_box.png') no-repeat center center;
+}
+.icon-word{
+	background:url('icons/new/page_white_word.png') no-repeat center center;
+}
+.icon-excel{
+	background:url('icons/new/page_white_excel.png') no-repeat center center;
+}
+.icon-compress{
+	background:url('icons/new/compress.png') no-repeat center center;
+}
+.icon-compress{
+	background:url('icons/new/compress.png') no-repeat center center;
+}
+/*新添加的图标*/
+.icon-news{
+	background:url('icons/news.png') no-repeat center center;
+}
+.icon-new-report{
+	background:url('icons/new/report.png') no-repeat center center;
+}
+.icon-user_female{
+	background:url('icons/new/user_female.png') no-repeat center center;
+}
+.icon-arrow_switch{
+	background:url('icons/new/arrow_switch.png') no-repeat center center;
+}
+.icon-newscategory{
+	background:url('icons/newscategory.png') no-repeat center center;
+}

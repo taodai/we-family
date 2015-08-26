@@ -1,0 +1,86 @@
+@CHARSET "UTF-8";
+*{
+	font-family:"微软雅黑";
+}
+.panel-title
+{
+	font-size:13px;		
+}
+.menubutton
+{
+	line-height:10px;
+	text-align:left;
+	color:#000000;
+	width:90%;
+	margin:5px auto;
+	font-size:13px;
+	padding:0px 0px 0px 10px;
+	background:red;
+}
+.menubutton a:link
+{
+	color:#000000;
+	text-decoration:none;
+	line-height:20px;
+	font-size:13px;
+}
+.menubutton a:hover
+{
+	color:#F00;
+	text-decoration:none;
+	line-height:20px;
+	font-size:13px;
+}
+.menubutton a:visited
+{
+	color:#000000;
+	text-decoration:none;
+	line-height:20px;
+	font-size:13px;
+}
+.menubutton a:active
+{
+	color:#000000;
+	text-decoration:none;
+	line-height:20px;
+	font-size:13px;
+}
+.topmenubutton
+{
+	float:right;
+	width:65px;
+	height:18px;
+	margin:0px;
+	color:#000000;
+	font-size:13px;
+	padding:0px 0px 0px 20px;
+	background:red;
+}
+.topmenubutton a:link
+{
+	color:#000000;
+	text-decoration:none;
+	line-height:20px;
+	font-size:13px;
+}
+.menubutton a:hover
+{
+	color:#F00;
+	text-decoration:none;
+	line-height:20px;
+	font-size:13px;
+}
+.topmenubutton a:visited
+{
+	color:#000000;
+	text-decoration:none;
+	line-height:20px;
+	font-size:13px;
+}
+.topmenubutton a:active
+{
+	color:#000000;
+	text-decoration:none;
+	line-height:20px;
+	font-size:13px;
+}

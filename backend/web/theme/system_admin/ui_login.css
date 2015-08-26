@@ -1,0 +1,22 @@
+﻿@charset "utf-8";
+/* CSS Document */
+
+body{background:#8BACD7;}
+#login_admin{ width:680px; height:350px; padding:60px 85px 60px 85px; background:#8BACD7; margin:0 auto; margin-top:145px;} 
+.login_admin_inside{ width:340px; height:220px; border:10px solid #FFFFFF; background:url(images/login_bgjpg.jpg) no-repeat; padding:35px 0 0 320px;}
+.login_admin_inside p{ margin:0; padding-bottom:10px; color:#092f58; font-size:12px; font-family:"宋体";}
+.input_pwd{ position:relative; left:6px;}
+.login_admin_inside p input{ padding:5px 0; width:180px; border:1px solid #5C95B3; margin-left:5px; position:relative; _top:3px;}
+#code{width:80px;}
+.login_admin_inside p span{ padding:6px 30px 6px 30px; _padding:7px 30px 7px 30px; background:#FFFFFF; margin-left:5px; position:relative; _top:-3px;}
+.login_admin_inside p a{ color:#000; margin:5px 0 0 5px;}
+.save_info{ padding-left:42px;}
+#checkbox{ width:auto; position:relative; top:2px; border:0;}
+.save_info a{width:74px !important; height:22px; display:block; padding-top:8px; float:left;color:#000; font-size:12px; font-family:"宋体"; text-decoration:none; text-align:center;background:url(images/login_reg.jpg) no-repeat;}
+.save_info a:hover{ background:url(images/login.jpg) no-repeat;}
+#login_bottom{ padding-top:40px;}
+#login_bottom p{ text-align:center; padding-top:10px; margin:0; color:#FFF;font-weight:bold;}
+#login_bottom p b{ color:#FF0000;}
+#login_bottom p  A{ color:#0407DE; }
+.change_one{ position:relative;top:4px; _top:0px;}
+

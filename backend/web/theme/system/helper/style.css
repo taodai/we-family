@@ -1,0 +1,48 @@
+@charset "utf-8";
+* {
+	font-family:"微软雅黑";
+}
+form {
+	margin:0 0;
+}
+
+dl {
+	margin:16px 0 10px 0;
+}
+
+dt {
+	float:left;
+	width:90px;
+	text-align:right;
+	padding:6px 4px 2px 0;
+}
+
+dd {
+	padding:4px 0;
+	margin:0 0;
+}
+
+.singleColumn {
+	width:415px;
+}
+
+.multiColumn {
+	width:655px;
+}
+
+.multiColumn dl {
+	width:295px;
+	float:left;
+	margin-top:16px;
+}
+
+.multiColumn .footerButton {
+	width:100%;
+	text-align:center;
+	margin-bottom:15px;
+}
+
+textarea {
+	width:163px;
+	border:#A4BED4 1px solid;
+}

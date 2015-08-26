@@ -1,0 +1,82 @@
+@charset "utf-8";
+.textareaDt {
+	float:none;
+}
+.textareaDd {
+	width:80%;
+	margin:0 auto;
+}
+.textarea {
+	width:100%;
+	height:102px;
+	font-size:12px;
+}
+.accordion-header {
+	height:16px;
+	text-align:center;
+}
+.propertieSpan {
+	padding-left:5px;
+	line-height:20px;
+}
+.propertieSpan input {
+	width:16px;
+	height:12px;
+	position:relative;
+	top:1px;
+}
+.tabs-wrap {
+	background-color:#FFFFFF;
+}
+#imageScroll
+{
+	width:422px;
+	margin:0 20px;
+}
+#imageContent {
+	width:360px;
+	height:74px;
+	float:left;
+	overflow: hidden;
+}
+#imageContent img {
+	width:70px;
+	height:70px;
+	border:#CCCCCC 2px solid;
+	cursor:pointer;
+}
+
+#imagePrev {
+	background-image:url(ad_prev.png);
+	width:30px;
+	height:30px;
+	float:left;
+	cursor:pointer;
+	margin-top:20px;
+}
+#imageNext {
+	background-image:url(ad_next.png);
+	width:30px;
+	height:30px;
+	float:left;
+	cursor:pointer;
+	margin-top:20px;
+}
+#imageCc {
+	white-space:nowrap;
+}
+#showBigImage {
+	width:100%;
+	margin:0 auto;
+	height:418px;
+	margin-bottom:3px;
+	text-align:center;
+}
+#showBigImage img {
+	left:0px;
+	height:420px;
+	width:100%;
+}
+#imageButtons {
+	margin-top:11px;
+}
